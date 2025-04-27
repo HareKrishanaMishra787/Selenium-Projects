@@ -3,7 +3,7 @@
 
 A powerful collection of **Python + Selenium** automation bots that help you save time, hunt deals, grow your Instagram, and collect rental data — all on autopilot. These scripts combine the power of web scraping and automation to perform repetitive online tasks efficiently and intelligently.
 
----
+-----
 
 ## 🧠 What’s Inside?
 
